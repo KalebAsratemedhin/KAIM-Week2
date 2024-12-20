@@ -1,0 +1,10 @@
+numpy==1.26.0
+pandas==2.2.3
+matplotlib
+seaborn==0.13.0
+scipy==1.11.3
+scikit-learn==1.5.0
+streamlit==1.40
+nltk==3.8.1
+requests
+ipykernel
